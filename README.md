@@ -15,4 +15,4 @@
 
 📫 Contact
 - Email: ametachitra10@gmail.com
-- LinkedIn: <linkedin.com/in/chitra-ameta>
+- LinkedIn: linkedin.com/in/chitra-ameta
