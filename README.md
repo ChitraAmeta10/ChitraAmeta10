@@ -6,8 +6,8 @@
 ### 🔹 Featured Projects
 - Fake News Detection using Machine Learning
 - College Helpdesk AI Chatbot (IBM Watson Assistant)
-- Movie Recommendation System
-
+- Research Assistant (IBM Watsonx)
+  
 ### 🛠 Skills
 - Python, Pandas, NumPy
 - Scikit-learn, TF-IDF
